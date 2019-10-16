@@ -6,5 +6,6 @@
   "license": "MIT",
   "devDependencies": {
     "webpack": "^4.41.2"
-  }
+  },
+  "repository": "https://github.com/AntjeNotteboom/antje-notteboom.git"
 }
